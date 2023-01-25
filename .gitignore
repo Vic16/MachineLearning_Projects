@@ -1,1 +1,3 @@
 classification/CreditCard_FraudDetection/data/creditcard.csv
+classification/CreditCard_FraudDetection/data/train.csv
+classification/CreditCard_FraudDetection/data/validation.csv
