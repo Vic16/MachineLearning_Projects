@@ -1,0 +1,4 @@
+--Todo
+
+-Funciones Train and Test
+-Probar diferentes Modelos
