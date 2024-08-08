@@ -6,4 +6,5 @@ Some projects were presented during the course of the master's degree in data sc
 There are 3 main directories:
 - Classification
 - Clustering
+- Deep Learning
 - Regression
